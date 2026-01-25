@@ -19,7 +19,7 @@ I'm a beginner in the world of data science, passionate about uncovering insight
 ## 🧪 Current Projects
 
 
-> 👉 Check out my pinned repositories below for code and write-ups!
+> 👉 Check out my pinned repositories for code and write-ups!
 
 ---
 
