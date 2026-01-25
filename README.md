@@ -23,11 +23,11 @@ I'm a beginner in the world of data science, passionate about uncovering insight
 
 ---
 
-## 🚀 Goals for 2025
+## 🚀 Goals for 2026
 
-- ✅ Complete 10+ small data science projects
-- 🔧 Contribute to my first open-source project
-- 💼 Land my first data science rotation or career experience
+- ✅ Complete 10+ small data science projects - **in progress**
+- 🔧 Contribute to my first open-source project - **in progress**
+- 💼 Land my first data science rotation or career experience - **completed**
 
 ---
 
